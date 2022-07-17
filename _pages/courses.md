@@ -13,8 +13,8 @@ As I've completed 3 years as an undergraduate student, I've taken a few courses 
 
 ## College Courses
 
-Some of the courses I have taken at IIIT-Delhi are listed below. They are listed in the format of *course name (semester, instructor, grade received)*:
-- **CSE663A: Meta-Learning** *(Winter'22, Prof. Gautam Shroff, A)*
+Some of the relevant courses I have taken at IIIT-Delhi are listed below. They are listed in the format of *course name (semester, instructor, grade received)*:
+- [**CSE663A: Meta-Learning**](https://sites.google.com/view/meta-learning3/){:target="_blank"} *(Winter'22, Prof. Gautam Shroff, A)*
 - **CSE642: Advanced Machine Learning** *(Monsoon'21, Prof. Saket Anand, A)*
 - **CSE556: Natural Language Processing** *(Monsoon'21, Prof. Md. Shad Akhtar, A)*
 - **CSE222: Analysis and Design of Algorithms** *(Winter'21, Prof. Syamantak Das, A)*
@@ -30,6 +30,12 @@ Some of the courses I have taken at IIIT-Delhi are listed below. They are listed
 
 ## Online Courses
 
-When COVID-19 hit and the world went into lockdown in 2020, I enrolled in multiple online courses in the summer break to enhance my knowledge and skill set. Fortunately, on;line platforms like [Coursera]() and [edX]() provided enrollment for multiple courses free of charge (for college students) upto a certain time period and I took full advantage of this opportunity and enrolled in various courses that captured my interest. Some of them are:
-- **Natural Language Processing Specialization by deeplearning.ai** (5 courses) [[CERTIFICATE]]()
+When COVID-19 hit and the world went into lockdown in 2020, I enrolled in multiple online courses in the summer break to enhance my knowledge and skill set. Fortunately, online platforms like [Coursera](https://www.coursera.org/){:target="_blank"} and [edX](https://www.edx.org/){:target="_blank"}  provided enrollment for multiple courses free of charge (for college students) upto a certain time period. I took full advantage of this opportunity and enrolled in various courses that captured my interest.
+- **Natural Language Processing Specialization by deeplearning.ai** *(4 courses, completed November 2020)* [[CERTIFICATE]](https://www.coursera.org/account/accomplishments/specialization/certificate/L9DY4PSQAC7Z){:target="_blank"}
+- **MITx 6.86x: Machine Learning with Python-From Linear Models to Deep Learning** *(completed December 2020)* [[CERTIFICATE]](https://courses.edx.org/certificates/dd1078bb4d204a948a19ffef2b1fc960){:target="_blank"}
+- **Applied Data Science with Python Specialization by University of Michigan** *(5 courses, completed October 2020)* [[CERTIFICATE]](https://www.coursera.org/account/accomplishments/specialization/certificate/7GH3V8T337YJ){:target="_blank"}
+- **MITx 18.6501x: Fundamentals of Statistics** *(completed September 2020)* [[CERTIFICATE]](https://courses.edx.org/certificates/c2521d9594794fa1bffd40a72efe3a28){:target="_blank"}
+- **Machine Learning: Algorithms in the Real World Specialization by Alberta Machine Intelligence Institute** *(4 courses, completed September 2020)* [[CERTIFICATE]](https://www.coursera.org/account/accomplishments/specialization/certificate/TKPX8JRDAB7C){:target="_blank"}
+- **TensorFlow Developer Specialization by deeplearning.ai** *(4 courses, completed October 2020)* [[CERTIFICATE]](https://www.coursera.org/account/accomplishments/specialization/certificate/D7LYS5FFH3UQ){:target="_blank"}
+- **Mathematics for Machine Learning by Imperial College London** *(3 courses, completed September 2020)* [[CERTIFICATE]](https://www.coursera.org/account/accomplishments/specialization/certificate/H7A8ELAUJ2PG){:target="_blank"}
 
