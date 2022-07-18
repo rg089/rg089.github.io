@@ -27,30 +27,8 @@ Some of the relevant courses I have taken at IIIT-Delhi are listed below. They a
 - **MTH201: Probability and Statistics** *(Winter'20, Prof. Sanjit Kaul, A)*
 - **CSE101: Introduction to Programming** *(Monsoon'19, Prof. Vikram Goyal, A)*
 
-<!-- <style>
-.panel-note
-{
-  -moz-border-radius: 6px;
-  -webkit-border-radius: 6px;
-  background-color: #f0f7fb;
-  background-position: 5px 15px;
-  background-repeat: no-repeat;
-  border: solid 1px #3498db;
-  border-radius: 6px;
-  overflow: hidden;
-  padding: 13px 20px 15px 65px;
-  min-height: 80px;
-}
-
-.panel-note.top-padding {
-  padding-top: 25px;
-}
-</style> -->
-
 <p class="panel-note" markdown="1"><i class="fa fa-info-circle"></i> <b>Aside:</b> Since I took a few ML courses on online platforms (as listed below) in my 2nd year, I didn't take *CSE343: Machine Learning* or *CSE641: Deep Learning* at IIIT-D because I had covered the basics of these courses elsewhere. Instead, I directly jumped into 
 *CSE642: Advanced Machine Learning* and *CSE663A: Meta-Learning*, both of which required ML and DL as prerequisites and were more advanced in nature. These two courses were extremely enjoyable and well-taught, and I learnt a lot from both of them.</p>
-
-
 
 ---
 
