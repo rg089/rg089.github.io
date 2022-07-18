@@ -10,6 +10,60 @@
  *
 */
 
+.panel-note
+{
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  background-color: #f0f7fb;
+  background-position: 5px 15px;
+  background-repeat: no-repeat;
+  border: solid 1px #3498db;
+  border-radius: 6px;
+  overflow: hidden;
+  padding: 13px 35px 15px 35px;
+  min-height: 80px;
+}
+
+.panel-note.top-padding {
+  padding-top: 25px;
+}
+
+.panel-warning
+{
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  background-color: rgb(252, 248, 227);
+  background-position: 5px 15px;
+  background-repeat: no-repeat;
+  border: solid 1px #3498db;
+  border-radius: 6px;
+  overflow: hidden;
+  padding: 13px 35px 15px 35px;
+  min-height: 80px;
+}
+
+.panel-warning.top-padding {
+  padding-top: 25px;
+}
+
+.panel-success
+{
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  background-color: #cbffbc;
+  background-position: 5px 15px;
+  background-repeat: no-repeat;
+  border: solid 1px #90ff45;
+  border-radius: 6px;
+  overflow: hidden;
+  padding: 13px 35px 15px 35px;
+  min-height: 80px;
+}
+
+.panel-success.top-padding {
+  padding-top: 25px;
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -39,3 +93,4 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
