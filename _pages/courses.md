@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-As I've completed 3 years as an undergraduate student, I've taken a few courses (both in college as well as online certifications) to learn and expand my knowledge base. I've listed select courses below, which are mostly relevant to my interests.
+As I've completed 3 years as an undergraduate student, I've taken a few courses (both in college as well as online certifications) to learn and expand my knowledge base. I've listed some select courses below, which are mostly relevant to my interests.
 
 --- 
 
@@ -28,7 +28,7 @@ Some of the relevant courses I have taken at IIIT-Delhi are listed below. They a
 - **CSE101: Introduction to Programming** *(Monsoon'19, Prof. Vikram Goyal, A)*
 
 <p class="panel-note" markdown="1"><i class="fa fa-info-circle"></i> <b>Aside:</b> Since I took a few ML courses on online platforms (as listed below) in my 2nd year, I didn't take *CSE343: Machine Learning* or *CSE641: Deep Learning* at IIIT-D because I had covered the basics of these courses elsewhere. Instead, I directly jumped into 
-*CSE642: Advanced Machine Learning* and *CSE663A: Meta-Learning*, both of which required ML and DL as prerequisites and were more advanced in nature. These two courses were extremely enjoyable and well-taught, and I learnt a lot from both of them.</p>
+*CSE642: Advanced Machine Learning* and *CSE663A: Meta-Learning*, both of which required ML and DL as prerequisites and were more advanced in nature (especially since i was the only 3rd year undergrad in a class of mostly Masters and PhD students). These two courses were extremely enjoyable and well-taught, and I learnt a lot from both of them.</p>
 
 ---
 
