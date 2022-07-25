@@ -28,13 +28,13 @@ Some of the relevant courses I have taken at IIIT-Delhi are listed below. They a
 - **CSE101: Introduction to Programming** *(Monsoon'19, Prof. Vikram Goyal, A)*
 
 <p class="panel-note" markdown="1"><i class="fa fa-info-circle"></i> <b>Aside:</b> Since I took a few ML courses on online platforms (as listed below) in my 2nd year, I didn't take *CSE343: Machine Learning* or *CSE641: Deep Learning* at IIIT-D because I had covered the basics of these courses elsewhere. Instead, I directly jumped into 
-*CSE642: Advanced Machine Learning* and *CSE663A: Meta-Learning*, both of which required ML and DL as prerequisites and were more advanced in nature (especially since i was the only 3rd year undergrad in a class of mostly Masters and PhD students). These two courses were extremely enjoyable and well-taught, and I learnt a lot from both of them.</p>
+*CSE642: Advanced Machine Learning* and *CSE663A: Meta-Learning*, both of which required ML and DL as prerequisites and were more advanced in nature (especially since I was the only 3rd-year undergrad in a class of mostly Masters and Ph.D. students). These two courses were extremely enjoyable and well-taught, and I learned a lot from both of them.</p>
 
 ---
 
 ## Online Courses
 
-When COVID-19 hit and the world went into lockdown in 2020, I enrolled in multiple online courses in the summer break to enhance my knowledge and skill set. Fortunately, online platforms like [Coursera](https://www.coursera.org/){:target="_blank"} and [edX](https://www.edx.org/){:target="_blank"}  provided enrollment for multiple courses free of charge (for college students) upto a certain time period. I took full advantage of this opportunity and enrolled in various courses that captured my interest.
+When COVID-19 hit and the world went into lockdown in 2020, I enrolled in multiple online courses in the summer break to enhance my knowledge and skill set. Fortunately, online platforms like [Coursera](https://www.coursera.org/){:target="_blank"} and [edX](https://www.edx.org/){:target="_blank"}  provided enrollment for multiple courses free of charge (for college students) up to a certain time period. I took full advantage of this opportunity and enrolled in various courses that captured my interest.
 - **Natural Language Processing Specialization by deeplearning.ai** *(4 courses, completed November 2020)* [[CERTIFICATE]](https://www.coursera.org/account/accomplishments/specialization/certificate/L9DY4PSQAC7Z){:target="_blank"}
 - **MITx 6.86x: Machine Learning with Python-From Linear Models to Deep Learning** *(completed December 2020)* [[CERTIFICATE]](https://courses.edx.org/certificates/dd1078bb4d204a948a19ffef2b1fc960){:target="_blank"}
 - **Applied Data Science with Python Specialization by University of Michigan** *(5 courses, completed October 2020)* [[CERTIFICATE]](https://www.coursera.org/account/accomplishments/specialization/certificate/7GH3V8T337YJ){:target="_blank"}
