@@ -31,7 +31,7 @@ I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:targ
 ---
 ## Details
 
-If you so desire, you can check out my [vitæ](/cv), [selected projects](/projects), [publications](/publications), [blog](/blog) as well as [relevant coursework](/courses).
+If you so desire, you can check out my [vitæ](/cv), [projects](/projects), [publications](/publications), [blog](/blog) as well as [relevant coursework](/courses).
 
 ---
 ## Contact
