@@ -23,7 +23,7 @@ I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:targ
 
 ---
 
-*In the (hopefully near) future, I want to explore:*
+*In the (hopefully near) future, along with ny current interests, I also want to explore:*
 * Reinforcement Learning
 * Geometric Deep Learning
 * Knowledge Graphs (and their integration into LMs)
