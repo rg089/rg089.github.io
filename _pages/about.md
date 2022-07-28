@@ -38,5 +38,5 @@ If you so desire, you can check out my [vitæ](/cv), [projects](/projects), [pub
 
 ### Feel free to contact me through: <br>
 <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>: rishabh19089 [at] iiitd [dot] ac [dot] in<br>
-<i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>: [Rishabh Gupta](https://www.linkedin.com/in/rishabh-gupta-141755203/){:target="_blank"}<br>
+<i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>: [rg089](https://www.linkedin.com/in/rg089){:target="_blank"}<br>
 <i class="fab fa-fw fa-github" aria-hidden="true"></i>: [rg089](https://www.github.com/rg089){:target="_blank"}<br>
