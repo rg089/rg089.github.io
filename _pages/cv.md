@@ -95,7 +95,7 @@ Select Projects
 =====
 ---
 
-*Please find the the complete list of the projects I've been involved in and their details [here](/projects).*
+*Please find the list of projects I've been involved in and their details [here](/projects).*
 
 ---
 
