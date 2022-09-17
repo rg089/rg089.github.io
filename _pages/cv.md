@@ -68,8 +68,7 @@ Work experience
 * **Research Intern at Georgia State University, MIDAS Lab (IIIT-Delhi) *(Jan'22 - May'22)***
   * **Project Title:** Multimodal Persuasive Content Generation
   * **Guide:** Dr Ugur Kursuncu
-  * Worked on the problem statement of generating multimodal persuasive content 
-
+  * Worked on the problem statement of generating multimodal persuasive content
  
 ---
 
@@ -114,6 +113,8 @@ Achievements
 =====
 ---
 
+* **Dean’s Award for Innovation and Research** *(Calendar Year 2021-2022)*
+* **Dean’s Award for Academic Excellence** *(Calendar Year 2021-2022)*
 * **Dean’s Award for Academic Excellence** *(Calendar Year 2020-2021)*
 * **Kishore Vaigyanik Protsahan Yojana Fellowship** : *Awarded by Indian Institute of Science, Bangalore*
 * *5\* Scholar* at Amity International School, Sector 43, Gurgaon
@@ -124,7 +125,8 @@ Service / Positions of Responsibility
 ======
 ---
 
-* Serving as a reviewer at **EMNLP'22**
+* Served as a reviewer at **EMNLP'22**
+* Member of the Machine Learning Team, Google Developer Student Clubs, IIIT-Delhi (2022)
 * **Teaching Assistant:** *Applied Optimization Methods for Machine Learning, Winter'22*
 * Member of the Organizing Team, Odyssey'20 at IIIT-Delhi
 

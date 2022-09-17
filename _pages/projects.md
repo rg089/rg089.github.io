@@ -29,7 +29,7 @@ redirect_from:
 ## <i class="fas fa-newspaper"></i> NewsHelper 
 * **Links:** [[`demo`](https://huggingface.co/spaces/rg089/NewsHelper){:target="_blank"}]  
 * **Description**: Automated summary and headline generation as well as source classification for news articles, specifically designed for Indian news.
-* **Type:** *CSE556:Natural Language Processing Course Project, Monsoon'21*
+* **Type:** *CSE556: Natural Language Processing Course Project, Monsoon'21*
 * **Guide**: *Dr Md Shad Akhtar*
 * **Duration**: Jun'21 - Sep'21  
 * **Work**:
@@ -64,7 +64,7 @@ redirect_from:
 ## <i class="fas fa-gamepad"></i> ColorSwitch 
 * **Links:** [[`code`](https://github.com/rg089/ColorSwitch){:target="_blank"}, [`info`](https://github.com/rg089/ColorSwitch#readme){:target="_blank"}]
 * **Description**: Java implementation of the android game ColorSwitch, employing different design patterns and with bonus features!
-* **Type:** *CSE201:Advanced Programming Course Project, Monsoon'20*
+* **Type:** *CSE201: Advanced Programming Course Project, Monsoon'20*
 * **Guide**: *Dr Vivek Kumar*
 * **Duration**: Sept'20 - Nov'20  
 * **Work**:
@@ -100,7 +100,7 @@ redirect_from:
 
 ## <i class="fas fa-broom"></i> Safeya 
 * **Description**: An app for digitizing various maintenance tasks at IIIT-D
-* **Type:** *CSE202:Fundamentals of Database Management Systems Course Project, Winter'21*
+* **Type:** *CSE202: Fundamentals of Database Management Systems Course Project, Winter'21*
 * **Guide**: *Dr Mukesh Mohania*
 * **Duration**: Feb'21 - Apr'21  
 * **Work**:  

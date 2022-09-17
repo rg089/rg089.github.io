@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:target="_blank"}**, where I'm pursuing Bachelors in Technology in Computer Science and Engineering (CSE). I'm an undergraduate researcher at the **[LCS2 Lab](https://lcs2.iiitd.edu.in/){:target="_blank"}** as well as the **[ADS-AI Lab](https://ads-ai.github.io/){:target="_blank"}** where I mainly work in the field of Natural Language Processing. My primary areas of interest (both research and engineering) currently are:
-- Self-Supervised Learning (especially in the context of NLP)
-- Meta-Learning
-- Algorithmic Analysis and Design
-- Design Patterns and Object Oriented Programming
+I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:target="_blank"}**, where I'm pursuing Bachelors in Technology in Computer Science and Engineering (CSE). I'm an undergraduate researcher at the **[LCS2 Lab](https://lcs2.iiitd.edu.in/){:target="_blank"}** as well as the **[ADS-AI Lab](https://ads-ai.github.io/){:target="_blank"}** where I broadly work in the field of Natural Language Processing. 
+
 
 ---
 
 ## Interests
+My primary areas of interest (both research and engineering) currently are:
+- Self-Supervised Learning (especially in the context of NLP)
+- Meta-Learning
+- Algorithmic Analysis and Design
+- Design Patterns and Object Oriented Programming
 
 *In the (hopefully near) future, along with my current interests, I also want to explore:*
 * Reinforcement Learning
