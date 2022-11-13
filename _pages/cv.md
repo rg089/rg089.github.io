@@ -56,16 +56,17 @@ Work experience
 * **Undergraduate Researcher at LCS2 Lab, IIIT-Delhi *(May'21 - Present)***
   * **Project Title:** Speaker Profiling
   * **Guides:** *Dr Md Shad Akhtar, Dr Tanmoy Chakraborty*
-  * Working on the NLP problem statement of *detecting speaker personas in unimodal multi-party conversations*
+  * Currently working on class conditioned counterspeech generation
+  * Worked on the NLP problem statement of *detecting speaker personas in unimodal multi-party conversations*
 
 * **Undergraduate Researcher at Extramarks Education, ADS-AI Lab *(May'21 - Present)***
   * **Project Title:** Question Generation and Paraphrasing
   * **Guides:** *Dr Mukesh Mohania, Dr Vikram Goyal*
-  * **Resultant Publications**: [SPaCING](/publications/#spacing-self-supervised-paraphrasing-via-controlled-injection-of-grounded-noise), [ParaQD](/publications/#john-ate-5-apples--john-ate-some-apples-self-supervised-paraphrase-quality-detection-for-algebraic-word-problems-abs-paper-code)
+  * **Resultant Publications**: [SCANInG](/publications/#spacing-self-supervised-paraphrasing-via-controlled-injection-of-grounded-noise), [ParaQD](/publications/#john-ate-5-apples--john-ate-some-apples-self-supervised-paraphrase-quality-detection-for-algebraic-word-problems-abs-paper-code)
   * Worked in the domain of Natural Language Processing and the practical usage of machine learning to improve the online pedagogical subspace
   * Designed and implemented *novel self-supervised* approaches to *paraphrasing* as well as *detecting the qualtiy of generated paraphrases* for word problems to yield SOTA performance 
 
-* **Research Intern at Georgia State University, MIDAS Lab (IIIT-Delhi) *(Jan'22 - May'22)***
+* **Research Intern at Georgia State University, Adobe Research, MIDAS Lab (IIIT-Delhi) *(Jan'22 - May'22)***
   * **Project Title:** Multimodal Persuasive Content Generation
   * **Guide:** Dr Ugur Kursuncu
   * Worked on the problem statement of generating multimodal persuasive content
@@ -76,13 +77,21 @@ Publications
 ======
 ---
 
-* **SPaCING: Self-Supervised Paraphrasing via Controlled Injection of Grounded Noise**
+* ***SCANInG: Syntax and Context-Aware Noise Injection with Grounding for Self-Supervised Paraphrasing***
   * <ins>Rishabh Gupta</ins>, Venktesh V, Mukesh Mohania, Vikram Goyal  
   * *Under Review*
 
 * ***'John ate 5 apples' != 'John ate some apples'*: Self-Supervised Paraphrase Quality Detection for Algebraic Word Problems [[`abs`](https://arxiv.org/abs/2206.08263){:target="_blank"}, [`paper`](https://arxiv.org/pdf/2206.08263){:target="_blank"}, [`code`](https://github.com/ADS-AI/ParaQD){:target="_blank"}]**
   * <ins>Rishabh Gupta\*</ins>, Venktesh V\*, Mukesh Mohania, Vikram Goyal  
   * *Accepted as a full paper at ECML-PKDD'22*
+
+* ***Speaker Profiling in Multi-Party Conversations***
+* Shivani Kumar, <ins>Rishabh Gupta</ins>, Md. Shad Akhtar, Tanmoy Chakraborty 
+* *Under Review*
+
+* ***Question GenIES: Question Generation with Interpretable Explainable Solutions***
+* Tushar Mohan, Pritish Gulati, <ins>Rishabh Gupta</ins>, Mukesh Mohania, Vikram Goyal  
+* *Under Review*
 
 * **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation [[`abs`](https://arxiv.org/abs/2112.02721){:target="_blank"}, [`paper`](https://arxiv.org/pdf/2112.02721){:target="_blank"}, [`code`](https://github.com/GEM-benchmark/NL-Augmenter){:target="_blank"}]**
   * Kaustubh Dhole, Varun Gangal, ..., <ins>Rishabh Gupta</ins>, Louanes Hamla et al.
@@ -126,7 +135,7 @@ Service / Positions of Responsibility
 ---
 
 * Served as a reviewer at **EMNLP'22**
-* Member of the Machine Learning Team, Google Developer Student Clubs, IIIT-Delhi (2022)
+* Member of the *Machine Learning Team, Google Developer Student Clubs*, IIIT-Delhi (2022-Present)
 * **Teaching Assistant:** *Applied Optimization Methods for Machine Learning, Winter'22*
 * Member of the Organizing Team, Odyssey'20 at IIIT-Delhi
 
