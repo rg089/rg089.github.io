@@ -16,17 +16,19 @@ author_profile: true
 * <ins>Rishabh Gupta\*</ins>, Venktesh V\*, Mukesh Mohania, Vikram Goyal  
 * *Accepted as a full paper at ECML-PKDD'22*
 
-## Speaker Profiling in Multi-Party Conversations
+<!-- ## Speaker Profiling in Multi-Party Conversations
 * Shivani Kumar, <ins>Rishabh Gupta</ins>, Md. Shad Akhtar, Tanmoy Chakraborty 
 * *Under Review*
 
 ## Question GenIES: Question Generation with Interpretable Explainable Solutions
 * Tushar Mohan, Pritish Gulati, <ins>Rishabh Gupta</ins>, Mukesh Mohania, Vikram Goyal  
-* *Under Review*
+* *Under Review* -->
 
 ## NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation [[`abs`](https://arxiv.org/abs/2112.02721){:target="_blank"}, [`paper`](https://arxiv.org/pdf/2112.02721){:target="_blank"}, [`code`](https://github.com/GEM-benchmark/NL-Augmenter){:target="_blank"}]
 * Kaustubh Dhole, Varun Gangal, ..., <ins>Rishabh Gupta</ins>, Louanes Hamla et al.
 * *arXiv preprint*
+
+## 2 other publications under review
 
 ---
 
