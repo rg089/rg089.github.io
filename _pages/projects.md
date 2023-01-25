@@ -14,6 +14,14 @@ redirect_from:
 - TOC
 {:toc}
 
+## <i class="fas fa-chart-line"></i> Plotex 
+* **Links:** [[`website`](http://www.rg089.ml/plotex){:target="_blank"}, [`code`](https://github.com/rg089/plotex){:target="_blank"}, [`PyPI`](https://pypi.org/project/plotex/){:target="_blank"}]
+* **Description**: A minimal wrapper over matplotlib for rapid prototyping and elegant plots for publications
+* **Type:** *Self-Project*  
+* **Duration**: Jan'23 - Present 
+* **Work**:
+    * *Details coming soon!*
+
 ## <i class="fas fa-chart-line"></i> TrenDetect 
 * **Links:** [[`website`](http://www.trendetect.ml/){:target="_blank"}, [`code`](https://github.com/rg089/TrenDetect){:target="_blank"}, [`blog`](/posts/trendetect){:target="_blank"}]
 * **Description**: A source to keep up with all the trending news topics, in an instant.
