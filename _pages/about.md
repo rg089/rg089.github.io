@@ -16,12 +16,11 @@ I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:targ
 ## Interests
 My primary areas of interest (both research and engineering) currently are:
 - Self-Supervised Learning (especially in the context of NLP)
-- Meta-Learning
+- Meta-Learning and Reinforcement Learning
 - Algorithmic Analysis and Design
 - Design Patterns and Object Oriented Programming
 
 *In the (hopefully near) future, along with my current interests, I also want to explore:*
-* Reinforcement Learning
 * Geometric Deep Learning
 * Knowledge Graphs (and their integration into LMs)
 
