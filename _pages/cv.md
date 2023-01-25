@@ -31,7 +31,7 @@ table, tr, td, th {
 <tbody>
   <tr>
     <td class="tg-zv4m"><span style="font-weight:bold">Indraprastha Institute of Information Technology, New Delhi, India</span><br><span style="font-style:italic">Bachelors of Technology in Computer Science and Engineering</span><br></td>
-    <td class="tg-zv4m"><b>Expected:</b> 2023<br><b>CGPA:</b> 9.16/10.0<br></td>
+    <td class="tg-zv4m"><b>Expected:</b> 2023<br><b>CGPA:</b> 9.30/10.0<br></td>
   </tr>
   <tr>
     <td class="tg-zv4m"><span style="font-weight:bold">Amity International School, Sector-43, Gurugram, India</span><br><span style="font-style:italic">Physics, Chemistry and Mathematics with Computer Science</span><br></td>
@@ -56,7 +56,7 @@ Work experience
 * **Undergraduate Researcher at LCS2 Lab, IIIT-Delhi *(May'21 - Present)***
   * **Project Title:** Speaker Profiling
   * **Guides:** *Dr Md Shad Akhtar, Dr Tanmoy Chakraborty*
-  * Currently working on class conditioned counterspeech generation
+  * Worked on intent-conditioned counterspeech generation for effective mitigation of online hate speech
   * Worked on the NLP problem statement of *detecting speaker personas in unimodal multi-party conversations*
 
 * **Undergraduate Researcher at Extramarks Education, ADS-AI Lab *(May'21 - Present)***
@@ -97,7 +97,7 @@ Publications
   * Kaustubh Dhole, Varun Gangal, ..., <ins>Rishabh Gupta</ins>, Louanes Hamla et al.
   * *arXiv preprint*
 
-* 2 other publications under review
+* Other publications under review
 
 ---
 
@@ -136,9 +136,10 @@ Service / Positions of Responsibility
 ======
 ---
 
-* Served as a reviewer at **EMNLP'22**
-* Member of the *Machine Learning Team, Google Developer Student Clubs*, IIIT-Delhi (2022-Present)
-* **Teaching Assistant:** *Applied Optimization Methods for Machine Learning, Winter'22*
+* *Reviewer*: EMNLP'22, ARR (Dec'22), ACL'23
+* *Teaching Assistant:* Meta-Learning, Winter'23; Applied Optimization Methods for Machine Learning, Winter'22
+* *Volunteer:* ICON'22
+* *Member*: Machine Learning Team, Google Developer Student Clubs, IIIT-D Chapter (2022-Present)
 * Member of the Organizing Team, Odyssey'20 at IIIT-Delhi
 
 ---
