@@ -28,7 +28,7 @@ author_profile: true
 * Kaustubh Dhole, Varun Gangal, ..., <ins>Rishabh Gupta</ins>, Louanes Hamla et al.
 * *arXiv preprint*
 
-## 2 other publications under review
+## Other publications under review
 
 ---
 
