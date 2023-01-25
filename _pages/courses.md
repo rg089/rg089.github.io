@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-As I've completed 3 years as an undergraduate student, I've taken a few courses (both in college as well as online certifications) to learn and expand my knowledge base. I've listed some select courses below, which are mostly relevant to my interests.
+As I've completed 3.5 years as an undergraduate student, I've taken a few courses (both in college as well as online certifications) to learn and expand my knowledge base. I've listed some select courses below, which are mostly relevant to my interests.
 
 --- 
 
@@ -18,6 +18,9 @@ Some of the relevant courses I have taken at IIIT-Delhi are listed below. They a
 - [**CSE663A: Meta-Learning**](https://sites.google.com/view/meta-learning3/){:target="_blank"} *(Winter'22, Prof. Gautam Shroff, A)*
 - **CSE642: Advanced Machine Learning** *(Monsoon'21, Prof. Saket Anand, A)*
 - **CSE556: Natural Language Processing** *(Monsoon'21, Prof. Md. Shad Akhtar, A)*
+- **CSE564: Reinforcement Learning** *(Monsoon'22, Prof. Sanjit Kaul, A)*
+- **CSE515: Bayesian Machine Learning** *(Monsoon'22, Prof. Ranjitha Prasad, A+)*
+- **CSE656: Information Integration and Applications** *(Monsoon'21, Prof. Mukesh Mohania, A)*
 - **CSE222: Analysis and Design of Algorithms** *(Winter'21, Prof. Syamantak Das, A)*
 - **CSE202: Fundamentals of Database Management Systems** *(Winter'21, Prof. Mukesh Mohania, A)*
 - **MTH204: Differential Equations** *(Winter'21, Prof. Ashish Pandey, A)*
