@@ -136,11 +136,11 @@ Service / Positions of Responsibility
 ======
 ---
 
-* *Reviewer*: EMNLP'22, ARR (Dec'22), ACL'23
-* *Teaching Assistant:* Meta-Learning, Winter'23; Applied Optimization Methods for Machine Learning, Winter'22
-* *Volunteer:* ICON'22
-* *Member*: Machine Learning Team, Google Developer Student Clubs, IIIT-D Chapter (2022-Present)
-* Member of the Organizing Team, Odyssey'20 at IIIT-Delhi
+* *Reviewer*: **EMNLP'22**, **ARR (Dec'22)**, **ACL'23**
+* *Teaching Assistant:* **Meta-Learning**, Winter'23; **Applied Optimization Methods for Machine Learning**, Winter'22
+* *Volunteer:* **ICON'22**
+* *Member*: **Machine Learning Team**, Google Developer Student Clubs, IIIT-D Chapter (2022-Present)
+* *Member*: Organizing Team, Odyssey'20 at IIIT-Delhi
 
 ---
 
