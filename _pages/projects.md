@@ -15,7 +15,7 @@ redirect_from:
 {:toc}
 
 ## <i class="fas fa-chart-line"></i> Plotex 
-* **Links:** [[`website`](http://www.rg089.ml/plotex){:target="_blank"}, [`code`](https://github.com/rg089/plotex){:target="_blank"}, [`PyPI`](https://pypi.org/project/plotex/){:target="_blank"}]
+* **Links:** [[`website`](/plotex){:target="_blank"}, [`code`](https://github.com/rg089/plotex){:target="_blank"}, [`PyPI`](https://pypi.org/project/plotex/){:target="_blank"}]
 * **Description**: A minimal wrapper over matplotlib for rapid prototyping and elegant plots for publications
 * **Type:** *Self-Project*  
 * **Duration**: Jan'23 - Present 
