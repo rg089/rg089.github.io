@@ -59,7 +59,7 @@ Work experience
   * Worked on intent-conditioned counterspeech generation for effective mitigation of online hate speech
   * Worked on the NLP problem statement of *detecting speaker personas in unimodal multi-party conversations*
 
-* **Undergraduate Researcher at Extramarks Education, ADS-AI Lab *(May'21 - Present)***
+* **Undergraduate Researcher at Extramarks Education, ADS Lab *(May'21 - Present)***
   * **Project Title:** Question Generation and Paraphrasing
   * **Guides:** *Dr Mukesh Mohania, Dr Vikram Goyal*
   * **Resultant Publications**: [SCANInG](/publications/#spacing-self-supervised-paraphrasing-via-controlled-injection-of-grounded-noise), [ParaQD](/publications/#john-ate-5-apples--john-ate-some-apples-self-supervised-paraphrase-quality-detection-for-algebraic-word-problems-abs-paper-code)
@@ -77,13 +77,13 @@ Publications
 ======
 ---
 
-* ***SCANInG: Syntax and Context-Aware Noise Injection with Grounding for Self-Supervised Paraphrasing***
-  * <ins>Rishabh Gupta</ins>, Venktesh V, Mukesh Mohania, Vikram Goyal  
-  * *Under Review*
+* ***Coherence and Diversity through Noise*: Self-Supervised Paraphrase Generation via Structure-Aware Denoising [[`abs`](https://arxiv.org/abs/2302.02780){:target="_blank"}, [`paper`](https://arxiv.org/pdf/2302.02780){:target="_blank"}, [`code`](https://anonymous.4open.science/r/SCANInG/){:target="_blank"}]**
+* <ins>Rishabh Gupta</ins>, Venktesh V, Mukesh Mohania, Vikram Goyal  
+* *Under Review at KDD'23*
 
 * ***'John ate 5 apples' != 'John ate some apples'*: Self-Supervised Paraphrase Quality Detection for Algebraic Word Problems [[`abs`](https://arxiv.org/abs/2206.08263){:target="_blank"}, [`paper`](https://arxiv.org/pdf/2206.08263){:target="_blank"}, [`code`](https://github.com/ADS-AI/ParaQD){:target="_blank"}]**
   * <ins>Rishabh Gupta\*</ins>, Venktesh V\*, Mukesh Mohania, Vikram Goyal  
-  * *Accepted as a full paper at ECML-PKDD'22*
+  * *ECML-PKDD'22*
 
 <!-- * ***Speaker Profiling in Multi-Party Conversations***
   * Shivani Kumar, <ins>Rishabh Gupta</ins>, Md. Shad Akhtar, Tanmoy Chakraborty 
@@ -128,7 +128,8 @@ Achievements
 * **Dean’s Award for Academic Excellence** *(Calendar Year 2021-2022)*
 * **Dean’s Award for Academic Excellence** *(Calendar Year 2020-2021)*
 * **Kishore Vaigyanik Protsahan Yojana Fellowship** : *Awarded by Indian Institute of Science, Bangalore*
-* *5\* Scholar* at Amity International School, Sector 43, Gurgaon
+* **Google Research Week'23**: *Amongst the 50 undergrads selected for the NLP track across India*
+* **5\* Scholar**: *Amity International School, Sector 43, Gurgaon*
 
 ---
 
@@ -136,10 +137,10 @@ Service / Positions of Responsibility
 ======
 ---
 
-* *Reviewer*: **EMNLP'22**, **ARR (Dec'22)**, **ACL'23**
+* *Reviewer*: **ACL'23**, **EMNLP'22**, **ACL Rolling Review**
 * *Teaching Assistant:* **Meta-Learning**, Winter'23; **Applied Optimization Methods for Machine Learning**, Winter'22
 * *Volunteer:* **ICON'22**
-* *Member*: **Machine Learning Team**, Google Developer Student Clubs, IIIT-D Chapter (2022-Present)
+* *Co-Lead*: **Machine Learning Team**, Google Developer Student Clubs, IIIT-D Chapter (2022-Present)
 * *Member*: Organizing Team, Odyssey'20 at IIIT-Delhi
 
 ---

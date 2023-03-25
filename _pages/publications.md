@@ -8,13 +8,17 @@ author_profile: true
 <!-- - TOC
 {:toc} -->
 
-## SCANInG: Syntax and Context-Aware Noise Injection with Grounding for Self-Supervised Paraphrasing
-* <ins>Rishabh Gupta</ins>, Venktesh V, Mukesh Mohania, Vikram Goyal  
-* *Under Review*
-
 ## 'John ate 5 apples' != 'John ate some apples': Self-Supervised Paraphrase Quality Detection for Algebraic Word Problems [[`abs`](https://arxiv.org/abs/2206.08263){:target="_blank"}, [`paper`](https://arxiv.org/pdf/2206.08263){:target="_blank"}, [`code`](https://github.com/ADS-AI/ParaQD){:target="_blank"}]
 * <ins>Rishabh Gupta\*</ins>, Venktesh V\*, Mukesh Mohania, Vikram Goyal  
-* *Accepted as a full paper at ECML-PKDD'22*
+* *ECML-PKDD'22*
+
+## *Coherence and Diversity through Noise*: Self-Supervised Paraphrase Generation via Structure-Aware Denoising [[`abs`](https://arxiv.org/abs/2302.02780){:target="_blank"}, [`paper`](https://arxiv.org/pdf/2302.02780){:target="_blank"}, [`code`](https://anonymous.4open.science/r/SCANInG/){:target="_blank"}]
+* <ins>Rishabh Gupta</ins>, Venktesh V, Mukesh Mohania, Vikram Goyal  
+* *Under Review at KDD'23*
+
+## *Counterspeeches up my sleeve!* Intent Distribution Learning and Persistent Fusion for Intent-Conditioned Counterspeech Generation
+* <ins>Rishabh Gupta</ins>, Shaily Desai, Manvi Goel, Anil Bandhakavi, Tanmoy Chakraborty, Md. Shad Akhtar
+* *Under Review at ACL'23*
 
 <!-- ## Speaker Profiling in Multi-Party Conversations
 * Shivani Kumar, <ins>Rishabh Gupta</ins>, Md. Shad Akhtar, Tanmoy Chakraborty 
