@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:target="_blank"}**, where I'm pursuing Bachelors in Technology in Computer Science and Engineering (CSE). I'm an undergraduate researcher at the **[LCS2 Lab](https://lcs2.iiitd.edu.in/){:target="_blank"}** as well as the **[ADS Lab](https://ads-ai.github.io/){:target="_blank"}** where I broadly work in the field of Natural Language Processing. I'm also currently working with Dr Gautam Shroff in the area of Meta-Reinforcement Learning.
+I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:target="_blank"}**, where I'm pursuing Bachelors in Technology in Computer Science and Engineering (CSE). I'm an undergraduate researcher at the **[LCS2 Lab](https://lcs2.iiitd.edu.in/){:target="_blank"}** as well as the **[ADS Lab](https://ads-ai.github.io/){:target="_blank"}** where I broadly work in the field of Natural Language Processing. I'm currently working with Dr Gautam Shroff in the area of Meta-Reinforcement Learning.
 
 <abbr title="discription">Text</abbr>
 
@@ -16,15 +16,15 @@ I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:targ
 ---
 
 ## Interests
-My primary areas of interest (both research and engineering) currently are:
-- Self-Supervised Learning (especially in the context of NLP)
-- Meta-Learning and Reinforcement Learning
-- Algorithmic Analysis and Design
-- Design Patterns and Object Oriented Programming
+My primary areas of interest currently are:
+- Self-Supervised and Meta Learning
+- Reinforcement Learning
+- Algorithmic Analysis
+- Object Oriented Programming
 
-*In the (hopefully near) future, along with my current interests, I also want to explore:*
+<!-- *In the (hopefully near) future, along with my current interests, I also want to explore:*
 * Geometric Deep Learning
-* Knowledge Graphs (and their integration into LMs)
+* Knowledge Graphs (and their integration into LMs) -->
 
 ---
 ## Details
