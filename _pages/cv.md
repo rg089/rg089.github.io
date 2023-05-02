@@ -13,7 +13,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p class="panel-success" markdown="1"><i class="fas fa-cloud-download-alt"></i> <b>Note: </b>You can download the pdf versions of my resume ([`one page`](https:www.google.com), [`full`]()) as well as my [`CV`]() at the provided links.
+<p class="panel-success" markdown="1"><i class="fas fa-cloud-download-alt"></i> <b>Note: </b>You can download my [`CV`](/images/cv.pdf) at the provided link.
 </p>
 
 Education
