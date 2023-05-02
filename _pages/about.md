@@ -10,7 +10,6 @@ redirect_from:
 
 I'm Rishabh, a senior undergrad at **[IIIT-Delhi](https://www.iiitd.ac.in){:target="_blank"}**, where I'm pursuing Bachelors in Technology in Computer Science and Engineering (CSE). I'm an undergraduate researcher at the **[LCS2 Lab](https://lcs2.iiitd.edu.in/){:target="_blank"}** as well as the **[ADS Lab](https://ads-ai.github.io/){:target="_blank"}** where I broadly work in the field of Natural Language Processing. I'm currently working with Dr Gautam Shroff in the area of Meta-Reinforcement Learning.
 
-<abbr title="discription">Text</abbr>
 
 
 ---
